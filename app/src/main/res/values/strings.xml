@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AndroidJuanJose</string>
+    <string name="app_name">APP Off-line</string>
     <string name="HelloWorld">Hello World!</string>
     <string name="welcome_text">Bienvenido a la primera app del curso</string>
 </resources>
